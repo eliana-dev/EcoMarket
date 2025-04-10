@@ -6,8 +6,7 @@
 }
 
 body {
-    /* background-color:#F5F5DC; */
-    background-color: #FAF3E0;
+    background-color: #F3F3F3;
     font-family: 'Montserrat', sans-serif;
     overflow-x: hidden;
 }
@@ -93,7 +92,7 @@ body {
 
 .header-title {
     font-family: 'Raleway', sans-serif;
-    color: #f7f7f7;
+    color: #F3F3F3;
     font-size: 70px;
 }
 
@@ -153,31 +152,6 @@ a {
     text-decoration: none;
 }
 
-.carrots-div img,
-.garlic-div img,
-.chili-div img {
-    width: 100%;
-    height: auto;
-    border-radius: 20%;
-    border: 0.1em solid #8f8f8f48;
-}
-
-.carrots-div,
-.garlic-div,
-.chili-div {
-    background-color: whitesmoke;
-    border: 2px solid #F3CE6E;
-    border-radius: 20%;
-    padding: 1em;
-    text-align: center;
-    width: 25em;
-}
-.products-flex{
-    display: flex;
-    justify-content: center;
-    align-content: center;
-    gap: 20px;
-}
 #products{
     position: relative;
     height: 100vh;
