@@ -41,7 +41,8 @@ body {
 .nav-bar li {
     margin: 0 1em;
 }
-.nav-bar li:hover{
+
+.nav-bar li:hover {
     scale: 1.05;
 }
 
@@ -59,7 +60,7 @@ body {
 }
 
 .nav-bar .active a {
-    background-color:   #E0912F;
+    background-color: #E0912F;
     color: white;
 }
 
@@ -152,9 +153,99 @@ a {
     text-decoration: none;
 }
 
-#products{
+/* here start the style of products */
+#products {
     position: relative;
-    height: 100vh;
+    height: auto;
     width: 100%;
     overflow: hidden;
+}
+
+.product-card {
+    display: flex;
+    flex-direction: column; /* que el contenido se apile */
+    width: 100%;
+    border: 1px solid #d1d1d1;
+    box-sizing: border-box;
+    border-radius: 12px;
+    overflow: hidden;
+    font-family: 'Montserrat', sans-serif;
+    background-color: white;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+    transition: transform 0.3s ease;
+}
+
+.product-img img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    display: block;
+}
+
+.product-info {
+    padding: 20px;
+    flex: 1;
+}
+
+.product-info h2 {
+    font-size: 24px;
+    color: #414141;
+    font-weight: bold;
+}
+
+.subtitle {
+    font-size: 14px;
+    color: #989898;
+    margin: 5px 0 10px;
+}
+
+.currency {
+    font-size: 16px;
+    color: #d9534f;
+    vertical-align: top;
+}
+
+.benefits {
+    margin-top: 10px;
+    color: #363636;
+}
+
+.price {
+    font-size: 34px;
+    color: #d9534f;
+    font-weight: bold;
+}
+
+.benefits ul {
+    font-weight: 400;
+    padding-left: 20px;
+    margin: 5px 0;
+}
+
+.add-to-cart {
+    background-color: #a0c655;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    padding: 10px 20px;
+    margin-top: 15px;
+    cursor: pointer;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    transition: background 0.3s;
+}
+
+.add-to-cart:hover {
+    background-color: #8cbf2e;
+}
+
+.product-card:hover{
+    transform: scale(1.04);
+}
+.card-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px; /* espacio entre cards */
+    max-width: 900px; 
+    margin: 0 auto; 
 }
