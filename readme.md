@@ -12,3 +12,7 @@ The website is simple and includes a landing page, a section to browse products,
 ## Landing
 The landing page features a navbar with a logo and navigation buttons. The main section includes a welcome message, highlights the store's benefits, and features a call-to-action button to browse our products.
 
+## Products section
+The product section includes a title and four cards, each displaying an image, a product name, and its price.
+
+
