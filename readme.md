@@ -1,4 +1,4 @@
-# EcoMarket
+# EcoMarket 🌿🍋
 ![Project Status: Work in Progress](https://img.shields.io/badge/status-work%20in%20progress-yellow)
 ![landing page](landing.png)
 
@@ -16,7 +16,7 @@ The landing page features a navbar with a logo and navigation buttons. The main 
 The product section includes a title and four cards, each displaying an image, a product name, and its price.
 ![products section](products.png)
 
-## Working on:
+## 🚧 Working on:
 - Footer with contact information
 - Add basic shopping cart functionality.
 
