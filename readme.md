@@ -14,5 +14,5 @@ The landing page features a navbar with a logo and navigation buttons. The main 
 
 ## Products section
 The product section includes a title and four cards, each displaying an image, a product name, and its price.
-
+![products section](products.png)
 
