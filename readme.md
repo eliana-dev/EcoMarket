@@ -1,5 +1,4 @@
 # EcoMarket 🌿
-![Project Status: Work in Progress](https://img.shields.io/badge/status-work%20in%20progress-yellow)
 <img src="EM-logo.png" alt="Preview" width="600"/>
 
 ## About the project
