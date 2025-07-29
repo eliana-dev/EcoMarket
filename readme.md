@@ -1,24 +1,29 @@
 # EcoMarket 🌿
-![Project Status: Work in Progress](https://img.shields.io/badge/status-work%20in%20progress-yellow)
-![landing page](landing.png)
+<p align="center">
+  <img src="EM-logo.png" alt="Preview" width="600"/>
+</p>
 
-> 🚧 **This project is a work in progress.**  
-> I'm actively developing new features and improvements. Some functionality may be incomplete or subject to change.
-
-## About the proyect
-EcoMarket is an e-commerce platform for organic products, developed as a personal project to practice and enhance my frontend development skills.
-The website is simple and includes a landing page, a section to browse products, and a footer with basic information.
+## About the project
+EcoMarket is a static e-commerce website for organic products, developed as a personal project to practice and improve my frontend development skills. The page was built primarily with HTML and CSS, with some JavaScript used to add simple interactivity. It includes a landing page, a product browsing section, and a footer with basic information.
 
 ## 🍋Landing
 The landing page features a navbar with a logo and navigation buttons. The main section includes a welcome message, highlights the store's benefits, and features a call-to-action button to browse our products.
 
+![landing](landing.png) 
+
 ## 🌿Products section
 The product section includes a title and four cards, each displaying an image, a product name, and its price.
+
 ![products section](products.png)
 
-## 🚧 Working on:
-- Footer with contact information
-- Add basic shopping cart functionality.
+## Contact section
+The contact section features a simple form where users can get in touch with the members of the EcoMarket team.
+![contact form](contact.png)
+
+## Footer section
+The footer includes the credits and contact information for EcoMarket, providing users with quick access to the team’s details.
+
+![footer](footer.png)
 
 ## 🚀 Technologies Used
 
