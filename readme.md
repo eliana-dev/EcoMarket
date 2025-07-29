@@ -1,5 +1,7 @@
 # EcoMarket 🌿
-<img src="EM-logo.png" alt="Preview" width="600"/>
+<p align="center">
+  <img src="EM-logo.png" alt="Preview" width="600"/>
+</p>
 
 ## About the project
 EcoMarket is a static e-commerce website for organic products, developed as a personal project to practice and improve my frontend development skills. The page was built primarily with HTML and CSS, with some JavaScript used to add simple interactivity. It includes a landing page, a product browsing section, and a footer with basic information.
