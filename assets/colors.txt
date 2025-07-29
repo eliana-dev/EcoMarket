@@ -1,7 +1,7 @@
 theme: summer citrus
 
 verde claro: #D1DE74
-verde oscuro: #A1C14B
+verde oscuro: #a1c14b
 naranja: #E0912F
 amarillo: #F3CE6E
-rojo: #D35B50
+rojo: #d35b50ff
