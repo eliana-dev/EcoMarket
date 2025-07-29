@@ -6,8 +6,7 @@
 > I'm actively developing new features and improvements. Some functionality may be incomplete or subject to change.
 
 ## About the project
-EcoMarket is an e-commerce platform for organic products, developed as a personal project to practice and enhance my frontend development skills.
-The website is simple and includes a landing page, a section to browse products, and a footer with basic information.
+EcoMarket is a static e-commerce website for organic products, developed as a personal project to practice and improve my frontend development skills. The page was built primarily with HTML and CSS, with some JavaScript used to add simple interactivity. It includes a landing page, a product browsing section, and a footer with basic information.
 
 ## 🍋Landing
 The landing page features a navbar with a logo and navigation buttons. The main section includes a welcome message, highlights the store's benefits, and features a call-to-action button to browse our products.
