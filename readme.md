@@ -23,6 +23,7 @@ The contact section features a simple form where users can get in touch with the
 ## Footer section
 The footer includes the credits and contact information for EcoMarket, providing users with quick access to the team’s details.
 
+![footer](footer.png)
 
 ## 🚀 Technologies Used
 
