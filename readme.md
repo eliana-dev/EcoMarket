@@ -9,7 +9,7 @@ EcoMarket is a static e-commerce website for organic products, developed as a pe
 ## 🍋Landing
 The landing page features a navbar with a logo and navigation buttons. The main section includes a welcome message, highlights the store's benefits, and features a call-to-action button to browse our products.
 
-![landing](landing.png) 
+![landing page](landing.png) 
 
 ## 🌿Products section
 The product section includes a title and four cards, each displaying an image, a product name, and its price.
